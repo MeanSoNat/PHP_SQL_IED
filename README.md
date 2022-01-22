@@ -1,5 +1,5 @@
 ### Hi, I'm MeanSO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://i.pinimg.com/564x/1b/f7/a8/1bf7a8474676c4116a0a53c5251baeb0.jpg)
+[![Website](https://img.shields.io/badge/MyIdolPIC-Nothing-green?style=flat-square)](https://i.pinimg.com/564x/1b/f7/a8/1bf7a8474676c4116a0a53c5251baeb0.jpg)
 
 ## Your short description
 - 🔭 I’m currently working on - KKU NKC
