@@ -1,14 +1,12 @@
-### Hi, I'm MeanSO <img src="https://www.pinterest.com/pin/806988826992568190/" width="25px">
+### Hi, I'm MeanSO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
-
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+- 🔭 I’m currently working on - KKU NKC
+- 🌱 I’m currently learning - PHP, Python
+- 💬 Ask me about - Math
+- 🥅 2022 Goal - be a good guy.
+- ⚡ Fun fact - I like to play valorant.😎
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
